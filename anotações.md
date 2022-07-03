@@ -76,3 +76,11 @@ Qualquer elemento que se destaca visualmente captura e prende a atenção de que
 - [8 princípios da Gestalt para você criar bons conteúdos visuais](https://marketingdigital360.com.br/8-principios-da-gestalt/#:~:text=De%20acordo%20com%20a%20Gestalt,leitura%20de%20um%20s%C3%B3%20objeto.)
 - [Teoria e principais leis da Gestalt: um estudo da forma](https://blog.revendakwg.com.br/inspiracao-design/teoria-e-principais-leis-da-gestalt-um-estudo-da-forma/)
 - [Os 7 Princípios de Gestalt e Como Utilizá-los em Projetos de UI Design](https://medium.com/aela/os-7-princ%C3%ADpios-de-gestalt-e-como-utiliz%C3%A1-los-em-projetos-de-ui-design-46d6d832abf6)
+
+### Quando usar gráfico Pizza
+
+- Dados de categorias de gêneros homem/mulher/etc;
+- Quantidade ou porcentagem de respostas de pesquisas de sim/não;
+- Fumantes vs. não fumantes;
+- Pessoas que preferem um ambiente urbano vs. pessoas que preferem um ambiente rural;
+- Outros dados binários/dicotômicos.
